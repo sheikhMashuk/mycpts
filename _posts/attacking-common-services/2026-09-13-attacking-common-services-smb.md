@@ -2,7 +2,7 @@
 title: "HTB Attacking Common Services — Attacking SMB (Walkthrough)"
 date: 2026-09-13 21:00:00 +0530
 categories: [CPTS, "Attacking Common Services"]
-tags: [smb, enumeration, smbclient, smbmap, crackmapexec, ssh, id_rsa]
+tags: [smb, enumeration, smbclient, smbmap, crackmapexec, ssh, id_rsa]     # lowercase
 ---
 
 ## Overview
